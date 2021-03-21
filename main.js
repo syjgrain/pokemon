@@ -2,7 +2,7 @@
 
 const characterSize = 200;
 const pokemon_count = 14;
-const roket_count = 9;
+const roket_count = 6;
 const game_duration = 20;
 const field = document.querySelector('.game__field');
 const fieldRect = field.getBoundingClientRect();
