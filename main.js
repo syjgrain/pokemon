@@ -115,7 +115,7 @@ function addItem(className, count, imgPath) {
     const x1 = 0;
     const y1 = 0;
     const x2 = fieldRect.width - characterSize;
-    const y2 = 360 - characterSize;
+    const y2 = 355 - characterSize;
     for (let i = 0; i < count; i++) {
         const item = document.createElement('img');
         item.setAttribute('class', className);
